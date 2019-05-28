@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+DB:
+
+CREATE USER 'laravel'@'localhost' IDENTIFIED BY '1234567890';
+GRANT ALL PRIVILEGES ON * . * TO 'laravel'@'localhost';
+
